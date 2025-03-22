@@ -1,16 +1,26 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://your-image-link.com/logo.png" width="200" alt="Caspina Logo">
+</p>
 
-<!--
-**Soheylsabetghadam/Soheylsabetghadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hello! Welcome to my GitHub</h1>
 
-Here are some ideas to get you started:
+<p align="center">In search of knowledge in the world of electronics</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me:
+- PCB Design with Altium Designer
+- STM32 Programming
+- 3D Design with SolidWorks
+- Passionate about learning & sharing knowledge
+
+---
+
+## Social Media:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/your-link)
+[![Telegram](https://img.shields.io/badge/Telegram-Join-blue)]([https://t.me/your-channel](https://t.me/Art_Pcb))
+
+---
+
+## My GitHub Stats:
+![Soheylsabetghadam GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
